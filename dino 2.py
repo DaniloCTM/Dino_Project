@@ -39,3 +39,4 @@ while True:
         jump()
     if air(screen):
         lower()
+        
